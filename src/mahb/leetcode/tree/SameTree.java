@@ -61,9 +61,6 @@ public class SameTree {
         int[] a = new int[]{1, 2, 1};
         int[] b = new int[]{1, 1, 2};
 
-        TreeNode rootA = new TreeNode(1)
-        TreeNode childLA = new TreeNode(1)
-        TreeNode childRA = new TreeNode(1)
-    }
+    };
 
 }
